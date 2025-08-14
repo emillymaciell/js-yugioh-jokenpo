@@ -1,12 +1,13 @@
 # Yu-Gi-Oh | Jo-ken-po Edition
 
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
+
 ![Demonstração do Jogo](yugioh_demo.gif)
 
 Este projeto é a implementação de um jogo de cartas "Pedra, Papel e Tesoura" (Jokenpo) com a temática do popular anime do Yu-Gi-Oh!, desenvolvido como parte do desafio "Criando um Jogo de Cartas do Yu-Gi-Oh! com JavaScript e CSS" da DIO.
 O objetivo foi aplicar e consolidar conceitos de manipulação do DOM, estilização com CSS e estruturação com HTML.
 
-<br></br>
-**🎯 Objetivos do Projeto:**
+## 🎯 Objetivos do Projeto
 
 - Criar um jogo interativo baseado no universo Yu-Gi-Oh!.
 
@@ -16,15 +17,19 @@ O objetivo foi aplicar e consolidar conceitos de manipulação do DOM, estiliza�
 
 - Reforçar a integração entre HTML, CSS e JavaScript.
 
-**🛠 Tecnologias Utilizadas:**
+---
 
-- HTML5 → Estrutura do jogo.
+## 🛠 Tecnologias Utilizadas:
 
-- CSS3 → Estilização, layout e efeitos visuais.
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
-- JavaScript (ES6+) → Lógica do jogo e manipulação do DOM.
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-**✨ Funcionalidades**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+---
+
+## ✨ Funcionalidades
 
 - Interface Temática: Todo o design foi inspirado no universo de Yu-Gi-Oh! para criar uma experiência imersiva.
 
@@ -35,16 +40,21 @@ O objetivo foi aplicar e consolidar conceitos de manipulação do DOM, estiliza�
 - Feedback Visual: Resultados da rodada (vitória, derrota ou empate) são exibidos de forma clara na tela.
 
 - Contagem de Pontos: Placar que atualiza em tempo real os pontos do jogador e da máquina.
+  
+---
 
-<br></br>
-**🔧 Como Executar o Projeto:**
+## 🔧 Como Executar o Projeto:
 
 Este é um projeto puramente front-end. Para executá-lo localmente, siga os passos abaixo:
 
-# 1. Clone o repositório
-git clone https://github.com/emillymaciell/js-yugioh-jokenpo.git
+1. **Clone o repositório**
+   ```bash
+   git clone https://github.com/emillymaciell/js-yugioh-jokenpo.git
+Acesse a pasta do projeto
 
-# 2. Navegue até o diretório do projeto
+bash
+Copiar
+Editar
 cd js-yugioh-jokenpo
+Abra o arquivo index.html no navegador
 
-# 3. Abra o arquivo index.html no seu navegador

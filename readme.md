@@ -50,11 +50,10 @@ Este é um projeto puramente front-end. Para executá-lo localmente, siga os pas
 1. **Clone o repositório**
    ```bash
    git clone https://github.com/emillymaciell/js-yugioh-jokenpo.git
-Acesse a pasta do projeto
+2. **Acesse a pasta do projeto**
+  ```bash
+   cd js-yugioh-jokenpo
+```
+3. **Abra o arquivo index.html no navegador**
 
-bash
-Copiar
-Editar
-cd js-yugioh-jokenpo
-Abra o arquivo index.html no navegador
 
